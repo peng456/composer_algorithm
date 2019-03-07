@@ -9,10 +9,7 @@
             "email": "geekstartup@163.com"
         }
     ],
-    "require": {
-    },
-    "require-dev": {
-    },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "algorithm\\": "src/algorithm/",
