@@ -1,5 +1,5 @@
 {
-    "name": "algorithm/algorithm",
+    "name": "algorithm/algorithmanddatastructure",
     "description": "some algorithm and datastructure",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Web3\\": "src/"
+            "algorithm\\": "src/algorithm/",
+            "datastructur\\": "src/datastructur/"
         }
     },
     "autoload-dev": {
