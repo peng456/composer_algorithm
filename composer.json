@@ -1,24 +1,11 @@
 {
-    "name": "algorithm/algorithmanddatastructure",
-    "description": "some algorithm and datastructure",
-    "type": "library",
-    "license": "MIT",
+    "name": "peng4546/algorithm",
+     "license":"MIT",	
     "authors": [
         {
-            "name": "peng",
+            "name": "peng456",
             "email": "geekstartup@163.com"
         }
     ],
-    "minimum-stability": "stable",
-    "autoload": {
-        "psr-4": {
-            "algorithm\\": "src/algorithm/",
-            "datastructur\\": "src/datastructur/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Test\\": "test/"
-        }
-    }
+    "require": {}
 }
