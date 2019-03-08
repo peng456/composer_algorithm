@@ -1,11 +1,13 @@
 {
     "name": "peng4546/algorithm",
-     "license":"MIT",	
+    "description": "结构 和 算法",
+    "type": "library",
+    "license":"MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "peng456",
             "email": "geekstartup@163.com"
         }
-    ],
-    "require": {}
+    ]
 }
